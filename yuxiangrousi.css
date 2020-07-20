@@ -1,0 +1,12 @@
+.button1 {
+  border-radius: 16px;
+  font-size: 16px;
+  height: 36px;
+  width: 130px;
+  border:1px solid #ccc;
+  background-color: transparent;
+  outline: none;
+}
+.button1:hover {
+  background-color: #ccc;
+}
